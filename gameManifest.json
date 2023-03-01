@@ -1,0 +1,22 @@
+{
+    "background_color": "#000",
+    "description": "Let's play Milky&Schoki trip!",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./icon192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "name": "Milky&Schoki trip",
+    "short_name": "Milky&Schoki trip",
+    "start_url": "/PWA?mode=standalone"
+}
